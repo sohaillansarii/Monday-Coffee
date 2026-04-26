@@ -24,7 +24,7 @@ The goal of this project is to analyze Monday Coffee’s sales data since Januar
 
 - Sales demand surges during the festive season (September, October, November). Prioritize inventory, marketing campaigns, and Diwali promotions to maximize revenue.  
 
-- Historical trends confirm September–November as the peak season, delivering the highest growth rates and revenue nationwide.  
+- Historical trends confirm September – November as the peak season, delivering the highest growth rates and revenue nationwide.  
 
 - Pune, Jaipur, and Chennai are the most profitable markets, showing high customer spending relative to operational costs—ideal for expansion.  
 
