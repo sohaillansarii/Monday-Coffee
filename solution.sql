@@ -308,3 +308,11 @@ SELECT
 	GROUP BY 1,2,6
 	ORDER BY 3 DESC
 	LIMIT 3;
+
+-- Enable PLpgSQL detection on GitHub
+CREATE OR REPLACE FUNCTION demo_plpgsql()
+RETURNS VOID AS $$
+BEGIN
+    RAISE NOTICE 'PLpgSQL enabled';
+END;
+$$ LANGUAGE plpgsql;
