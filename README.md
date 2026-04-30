@@ -7,7 +7,7 @@ The goal of this project is to analyze Monday Coffee’s sales data since Januar
 
 ---
 
-<img src="Monday-Coffe-Dashboard.png" style="width:100%; height:auto;" />
+<img src="Monday-Coffee-Dashboard.png" style="width:100%; height:auto;" />
 
 ---
 
