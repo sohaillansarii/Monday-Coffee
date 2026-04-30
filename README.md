@@ -3,7 +3,7 @@
 <img src="logo.png" style="width:100%; height:auto;" />
 
 ## Objective
-The goal of this project is to analyze Monday Coffee’s sales data since January 2023 to identify trends, understand customer behavior, and evaluate performance. The insights will help improve business strategies and drive growth, while also recommending the top three cities in India for new coffee shop locations based on demand and sales potential.
+The goal of this project is to analyze Monday Coffee’s sales data since January 2023 to identify trends, understand customer behavior, and evaluate performance. The insights will help improve business strategies and drive growth, while also recommending the top three cities in India for new coffee shop locations based on demand and sales potential. This analysis was conducted using advanced SQL queries and an interactive Power BI dashboard, and the key business insights and recommendations are provided below.
 
 ---
 
