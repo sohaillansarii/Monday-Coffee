@@ -7,6 +7,10 @@ The goal of this project is to analyze Monday Coffee’s sales data since Januar
 
 ---
 
+<img src="Monday-Coffe-Dashboard.png" style="width:100%; height:auto;" />
+
+---
+
 ## Business Insights
 
 - Cold Brew Coffee Pack consistently emerges as the top-performing product across all major cities, making it the ideal flagship offering.
