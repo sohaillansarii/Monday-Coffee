@@ -1,4 +1,4 @@
-#  MONDAY COFFEE EXPANSION SQL PROJECT
+#  MONDAY COFFEE EXPANSION (SQL,Power BI Project)
 
 <img src="logo.png" style="width:100%; height:auto;" />
 
